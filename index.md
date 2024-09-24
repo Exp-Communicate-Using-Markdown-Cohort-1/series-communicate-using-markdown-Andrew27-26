@@ -6,3 +6,6 @@
 ```
 <p>This is how it looks, Copy</p>
 ```
+- [x] Done Required
+- [x] Completion
+- [x] This item is not complete
